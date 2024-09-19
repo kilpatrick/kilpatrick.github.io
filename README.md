@@ -1,14 +1,13 @@
-![👋 Hi, my name is Christopher Kilpatrick](https://chriskilpatrick.com/github/imgs/github-profile-header-image.jpg)
+![👋 Hi, my name is Christopher Kilpatrick](https://chriskilpatrick.com/github/imgs/github-profile-header-image.jpg?v=1)
 
 ## 🚀  I Take Companies from Idea  to Launch   
 ###  Want help with that? Let's talk about what you're building, and maybe we can work together.
 
-<a href="https://github.com/kilpatrick" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px"></a>   <a href="https://linkedin.com/in/christopherkilpatrick/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a>   <a href="https://knownnames.com/im/christopherkilpatrick" target="_blank"><img src="https://img.shields.io/badge/Known%20Names-1b506b?logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyBpZD0iYSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2Ni4xNyA5Ny41Ij4KICA8ZGVmcz4KICAgIDxzdHlsZT4KICAgICAgLmIgewogICAgICAgIGZpbGw6ICNmZmY7CiAgICAgICAgc3Ryb2tlLXdpZHRoOiAwcHg7CiAgICAgIH0KICAgIDwvc3R5bGU+CiAgPC9kZWZzPgogIDxwYXRoIGNsYXNzPSJiIiBkPSJNNjYuMSwzMy4xQzY2LjEsMTQuOCw1MS4zLDAsMzMuMSwwUzAsMTQuOCwwLDMzLjFjMCwuOSwwLDEuOC4xLDIuOC4yLDIuNi43LDUuMSwxLjUsNy41LDYuNywyMi45LDMxLjQsNTQuMSwzMS40LDU0LjEsMCwwLDM0LjktNDYuMiwzMy4xLTY0LjVoMHYuMVpNNTQuMSw1NEgxMS45cy0xLjgtNy43LDExLjMtOS41YzAsMCw3LjksMCw0LjEtNy43LDAsMC0xLjQtLjctNC41LTcuNSwwLDAtMi43LTUuMi0uMi01LjksMCwwLC42LTEzLjgsMTAuNS0xMi43LDkuOS0xLjEsMTAuNSwxMi43LDEwLjUsMTIuNywyLjUuNy0uMiw1LjktLjIsNS45LTMuMiw2LjgtNC41LDcuNS00LjUsNy41LTMuOCw3LjcsNC4xLDcuNyw0LjEsNy43LDEzLjEsMS44LDExLjMsOS41LDExLjMsOS41aC0uMloiLz4KPC9zdmc+&logoColor=white" height="28" style="margin-right: 4px"></a>  <a href="https://instagram.com/christopherkilpatrick/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a>
+<a href="https://github.com/kilpatrick" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px"></a>  <a href="https://linkedin.com/in/christopherkilpatrick/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a>  <a href="https://instagram.com/christopherkilpatrick/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a>
 
-I'm a full stack developer that thrives in startup culture and have worked on pretty much every imaginable area of tech products. 
+I'm a full stack developer that thrives in jumping into any area of a software stack during any phase of a product development cycle and making sure the team ships. I've worked on multiple projects that went from early idea stage to successful, public release into the market. 
 
-#### Recent V1 Products I've Launched: 
-- **KnownNames:** [knownnames.com](https://knownnames.com)
+#### Highlighted Products I've Launched: 
 - **Business Alliance Financial Services:** [bafs.com](https://bafs.com)
 
 
@@ -26,7 +25,6 @@ I'm a full stack developer that thrives in startup culture and have worked on pr
 
 ## Pseudorandom Bits
 
-- 📱 I just launched a new app with Jubulah Labs called [KnownNames.com](https://knownnames.com). Let me know what you think!
 - 🐊 As a child, I once caught an alligator with an underwater lasso!
 - 🇫🇷 J'aime parler français même si c'est très difficile pour moi.
 - 🧗 I love hiking, climbing (bouldering), kayaking, camping, and swimming.
